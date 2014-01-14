@@ -7,6 +7,7 @@ if (in_array($this->getEnvironment(), array('dev', 'test'))) {
 }
 return $bundles;
 ```
+
 3. Supprimer les 3 routes dans `app\config\routing_dev.yml`
 
 ```yaml

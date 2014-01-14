@@ -1,0 +1,1 @@
+Afin de résoudre ce problème il suffit de remplacer l’image nommée `apple-touch-icon.png` placée dans `/web/` par l’image que vous voulez.

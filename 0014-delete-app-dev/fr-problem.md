@@ -1,0 +1,1 @@
+Le dossier `app_dev` est utile en mode développement mais inutile en production, il faut donc le supprimer pour en pas encombrer le projet.

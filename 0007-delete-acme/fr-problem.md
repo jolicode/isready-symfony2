@@ -1,0 +1,2 @@
+À l’installation de Symfony2, un bundle par défaut est créé : Acme ; qui contient le fameux DemoBundle.
+Il est intéressant pour voir des éléments de base  de Symfony, mais inutile en développement et encore moins en production, il faut donc veillez à le supprimer.

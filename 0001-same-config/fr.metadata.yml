@@ -1,0 +1,3 @@
+data:
+    name: La configuration serveur est la même que celle client
+    tags: ['serveur', 'configuration']

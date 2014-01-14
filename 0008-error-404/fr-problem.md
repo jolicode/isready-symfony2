@@ -1,0 +1,2 @@
+Lorsque l’utilisateur veut atteindre une page qui n’existe pas, la page 404 est affichée.
+Afin d’améliorer l’expérience de l’utilisateur sur votre site lorsqu’il tombe sur votre page 404, il est préférable de la personnaliser.

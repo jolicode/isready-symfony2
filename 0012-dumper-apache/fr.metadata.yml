@@ -1,0 +1,3 @@
+data:
+    name: Dumper le router en rewrite Apache
+    tags: ['performance']

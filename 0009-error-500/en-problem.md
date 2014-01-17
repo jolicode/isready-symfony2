@@ -1,0 +1,1 @@
+Lors d’une erreur du serveur interne, la page 500 est affichée. Afin d’améliorer l’expérience utilisateur sur votre site, il est conseillé de personnaliser cette page.

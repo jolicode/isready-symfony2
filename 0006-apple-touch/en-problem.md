@@ -1,0 +1,3 @@
+Sur un iPhone, iPad, ou iPod Touch lorsque l’on visite un site internet, nous avons la possibilité d’ajouter ce site web à l’écran d’accueil, il s’agit en fait d’un raccourci vers le site, ce dernier est illustré par un icône : `apple-touch-icon.png`.
+
+Il est important de personnaliser cet icône, car si cela n’est pas fait l’icône représentera alors une capture écran de la page visitée ce qui n’est pas terrible.

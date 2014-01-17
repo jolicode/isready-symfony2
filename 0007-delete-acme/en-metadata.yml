@@ -1,0 +1,3 @@
+data:
+    name: Supprimer le bundle par défaut (Acme)
+    tags: ['performance', 'doctrine']

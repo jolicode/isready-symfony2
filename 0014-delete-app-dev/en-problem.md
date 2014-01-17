@@ -1,0 +1,1 @@
+Le fichier `app_dev.php` est utile en mode développement mais inutile en production, il faut donc le supprimer pour en pas encombrer le projet.

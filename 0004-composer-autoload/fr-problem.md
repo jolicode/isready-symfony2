@@ -1,4 +1,4 @@
-Le fichier autoload.php permet de charger automatiquement chaque classe se trouvant dans le dossier vendor. Afin d’optimiser ce procédé il faut utiliser la commande :
+Le fichier `autoload.php` permet de charger automatiquement chaque classe se trouvant dans le dossier vendor. Afin d’optimiser ce procédé il faut utiliser la commande :
 ```sh
 $ php composer.phar dump-autoload --optimize
 ```

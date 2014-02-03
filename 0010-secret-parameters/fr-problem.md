@@ -1,1 +1,1 @@
-Afin de rendre plus aléatoire le token utilisé notamment pour les formulaires, il est nécesseraire de modifier le `secret` ne serait-ce que légèrement.
+Afin de rendre plus aléatoire le token utilisé notamment pour les formulaires, il est nécessaire de modifier le `secret` ne serait-ce que légèrement.

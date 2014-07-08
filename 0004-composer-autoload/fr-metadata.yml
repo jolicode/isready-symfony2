@@ -1,3 +1,5 @@
 data:
-    name: Optimiser l’autoload de composer
-    tags: ['performance', 'doctrine']
+    name: Optimiser l'autoload de composer
+    tags: ['performance', 'composer']
+    sources:
+        - https://getcomposer.org/doc/03-cli.md#install

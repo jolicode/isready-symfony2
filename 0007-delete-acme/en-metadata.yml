@@ -1,3 +1,6 @@
 data:
-    name: Supprimer le bundle par défaut (Acme)
-    tags: ['performance', 'doctrine']
+    name: Remove the default bundle AcmeDemoBundle
+    tags: ['performance']
+    sources:
+        - https://github.com/symfony/symfony-standard#4-getting-started-with-symfony
+        - http://symfony.com/doc/current/cookbook/bundles/remove.html

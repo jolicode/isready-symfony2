@@ -1,2 +1,2 @@
-À l’installation de Symfony2, un bundle par défaut est créé : Acme ; qui contient le fameux DemoBundle.
-Il est intéressant pour voir des éléments de base  de Symfony, mais inutile en développement et encore moins en production, il faut donc veillez à le supprimer.
+La [Symfony2 standard edition](https://github.com/symfony/symfony-standard) est livré avec un bundle par défaut (`AcmeDemoBundle`)
+qui expose des routes et des assets qui ne doivent pas être envoyés en production.

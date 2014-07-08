@@ -1,5 +1,5 @@
 data:
     name: Personnaliser les pages d'erreur
-    tags: ['design']
+    tags: ['design', 'sécurité']
     sources:
         - http://symfony.com/doc/current/cookbook/controller/error_pages.html

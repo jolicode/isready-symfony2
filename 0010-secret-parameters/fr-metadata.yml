@@ -1,3 +1,3 @@
 data:
-    name: Personnaliser le secret dans `parameters.yml`
-    tags: ['sécurité']
+    name: Changer le secret de l'application
+    tags: ['security']

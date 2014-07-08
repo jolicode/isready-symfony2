@@ -1,5 +1,5 @@
 data:
     name: Customize error pages
-    tags: ['design']
+    tags: ['design', 'security']
     sources:
         - http://symfony.com/doc/current/cookbook/controller/error_pages.html

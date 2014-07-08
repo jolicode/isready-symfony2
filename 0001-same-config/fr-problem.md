@@ -1,4 +1,4 @@
-Pour s'assurer que la configuration serveur répond à tous les pré-requis de Symfony2, vous devez executer les fichiers `check.php`.
+Pour s'assurer que la configuration serveur répond à tous les pré-requis de Symfony2, vous devez exécuter les fichiers `check.php`.
 
 Le premier se lance depuis la ligne de commande:
 

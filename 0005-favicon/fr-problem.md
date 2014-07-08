@@ -1,2 +1,1 @@
-Un favicon est l’icône personnalisé d’un site web dans la barre d’adresse.
-Il est fortement conseillé de personnaliser ce favicon.
+Vous devez changer les fichiers `web/favicon.ico` et `web/apple-touch-icon.png` parce qu'ils exposent le logo de Symfony2 par défaut.

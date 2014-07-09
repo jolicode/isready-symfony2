@@ -1,4 +1,3 @@
-Afin de limiter le nombre de fichiers `.htaccess` il est conseillé de placer vos directives directement dans les fichiers de configuration `apache2.conf`, `httpd.conf`, `nginx.conf` ou hôtes virtuels.
+Copy and paste the directives from `web/.htaccess` to your `apache2.conf` or `httpd.conf` VirtualHost configuration.
 
-Ces fichiers sont placés dans le répertoire sites-availables à l’emplacement suivant :
-`/etc/nginx/` ou `/usr/local/etc/nginx`.
+Then you will also be able to replace any `AllowOverride All` by `AllowOverride None` and enjoy a performance improvement.

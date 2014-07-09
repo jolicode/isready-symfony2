@@ -1,3 +1,3 @@
 data:
-    name: Supprimer les .htaccess
+    name: Déplacer le .htaccess dans la configuration serveur
     tags: ['performance']

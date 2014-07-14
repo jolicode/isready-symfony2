@@ -1,3 +1,5 @@
 data:
-    name: Dumper le router en rewrite Apache
+    name: Dump router rules to Apache rewrite
     tags: ['performance']
+    sources:
+        - http://symfony.com/doc/current/cookbook/configuration/apache_router.html

@@ -1,3 +1,6 @@
 data:
-    name: La configuration serveur est la même que celle client
-    tags: ['serveur', 'configuration']
+    name: La configuration serveur répond aux pré-requis de Symfony2
+    tags: ['serveur', 'configuration', 'pré-requis']
+    sources:
+        - https://github.com/symfony/symfony#requirements
+        - http://symfony.com/doc/current/reference/requirements.html

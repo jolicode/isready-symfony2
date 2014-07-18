@@ -1,0 +1,3 @@
+data:
+    name: Change the session cookie name
+    tags: ['security']

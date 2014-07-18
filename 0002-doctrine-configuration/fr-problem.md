@@ -1,6 +1,8 @@
-On vérifie que doctrine est correctement configurée pour un environnement de production à l’aide de la commande :
-```sh
-$ php app/console doctrine:ensure-production-settings --env=prod
-```
+Si vous utilisez Doctrine dans votre projet, vous devez vous assurer que certains paramètres de configuration
+sont définis afin de bénéficier des meilleures performances possibles en production.
 
-Cette commande va permettre de vérifier si on a bien les méta données Doctrine en cache dans le fichier `config_prod.yml`
+Vous devez lancer cette commande pour vérifier la configuration:
+
+```sh
+$ php app/console doctrine:ensure-production-settings --env=prod --no-debug
+```

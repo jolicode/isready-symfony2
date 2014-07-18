@@ -1,0 +1,3 @@
+data:
+    name: Move .htaccess to the server configuration
+    tags: ['performance']

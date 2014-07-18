@@ -1,6 +1,16 @@
-If this command returns : *Proxy Classes are always regenerating.*
+In case of error, make sure those settings are defined in your `config.yml` files:
 
-It's because the `auto_generate_proxy_classes` est en mode debug. Afin de désactiver le kernel.debug, il faut lancer cette commande :
-```sh
-$ php app/console doctrine:ensure-production-settings --no-debug --env=prod
+```yml
+doctrine:
+    orm:
+        auto_generate_proxy_classes: %kernel.debug% # Should be FALSE on production
+        entity_managers:
+            default: # Prototype
+                query_cache_driver:
+                    type:                 array
+                metadata_cache_driver:
+                    type:                 array
+
 ```
+
+Cache driver is `array` by default, but there is a [lot of available and faster alternatives](https://github.com/doctrine/cache/tree/master/lib/Doctrine/Common/Cache).

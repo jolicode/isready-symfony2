@@ -1,3 +1,5 @@
-Le fichier `web/config.php` contient les configurations de votre projet Symfony2
-accessible depuis votre navigateur.
-Ce fichier est à supprimer pour la mise en production.
+Vérifiez que ces fichiers ne sont pas disponible en production :
+
+ - `web/config.php`
+ - `web/app_dev.php`
+ - n'importe quel contrôlleur non `prod` (`app_test.php`, `backend_dev.php`...)

@@ -1,1 +1,1 @@
-Afin de rendre plus aléatoire le token utilisé notamment pour les formulaires, il est nécessaire de modifier le `secret` ne serait-ce que légèrement.
+Vérifier dans le fichier `app/config/parameters.yml` que la clé `secret` ne contient pas `ThisTokenIsNotSoSecretChangeIt`.

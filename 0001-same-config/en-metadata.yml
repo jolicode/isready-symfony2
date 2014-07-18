@@ -1,3 +1,6 @@
 data:
-    name: The server configuration is the same that the client
-    tags: ['server', 'configuration']
+    name: The server configuration fit Symfony2 requirements
+    tags: ['server', 'configuration', 'requirements']
+    sources:
+        - https://github.com/symfony/symfony#requirements
+        - http://symfony.com/doc/current/reference/requirements.html
